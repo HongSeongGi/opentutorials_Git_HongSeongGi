@@ -20,6 +20,7 @@ bcd
  	   <li>원격 저장소</li>
 	   <li>push</li>
 	   <li>pull</li>
+	   <li>HongSeongGi</li>
 	</ul>
     </body>
 </html>
