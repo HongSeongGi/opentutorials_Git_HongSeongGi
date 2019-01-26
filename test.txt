@@ -11,6 +11,7 @@ bcd
  	    <h1>Git</h1>
 	</header>
 	<ul>
+	   <li>sync.origin</li>
 	   <li>GIT이란?</li>
 	   <li>직접해보기!!</li>
 	   <li>Branch</li>
