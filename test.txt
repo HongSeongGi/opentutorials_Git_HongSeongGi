@@ -24,6 +24,7 @@ bcd
 	   <li>HongSeongGi</li>
 	   <li><push.origin></li>
 	   <li>pull.clone</li>
+	   <li>conflic.origin</li>
 	</ul>
     </body>
 </html>
